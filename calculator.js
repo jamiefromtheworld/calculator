@@ -9,3 +9,9 @@ const six = 6;
 const seven = 7;
 const eight = 8;
 const nine = 9;
+
+
+function screenValue(button) {
+    document.getElementById('screen').innerHTML = button;
+
+}
