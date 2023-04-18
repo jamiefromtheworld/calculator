@@ -1,3 +1,4 @@
+//now i have constant values with names so when i say "zero" the number 0 is referenced
 const zero = 0;
 const one = 1;
 const two = 2;
@@ -8,4 +9,3 @@ const six = 6;
 const seven = 7;
 const eight = 8;
 const nine = 9;
-
